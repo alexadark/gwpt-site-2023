@@ -1232,15 +1232,15 @@
     querystring "^0.2.0"
     strip-ansi "^6.0.0"
 
-"@gatsbywpthemes/gatsby-plugin-gwpt-packages@^2.0.8":
-  version "2.0.8"
-  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-plugin-gwpt-packages/-/2.0.8/gatsby-plugin-gwpt-packages-2.0.8.tgz#7f1fd998714b0e452e32a8c0ed7929a1837f3d0a"
-  integrity sha512-ebmeXnwAclBV4b73dUgFjiY2U+z7AwqHf90ZxuCXs2bAj8FQGnXOFp/PHV7PtJdNunJzeT0x2VySYOqCEdNp/Q==
+"@gatsbywpthemes/gatsby-plugin-gwpt-packages@^2.0.12":
+  version "2.0.12"
+  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-plugin-gwpt-packages/-/2.0.12/gatsby-plugin-gwpt-packages-2.0.12.tgz#90504cc5a7e66a56fc6f80566d8c4fef9789dc53"
+  integrity sha512-J9GsfZ9ROMKGQD+3uwyuys1XbIGvYo19f8aBTypCWEZwCRqkzboc6AgDCcs2ga8mMkiC28nZSs8gUsFyh+f6mg==
   dependencies:
     "@gatsbywpthemes/gatsby-plugin-wordpress-lightbox" "^2.0.4"
     "@gatsbywpthemes/gatsby-plugin-wp-seo" "^2.0.4"
-    "@gatsbywpthemes/gatsby-plugin-wpcf7" "^2.0.4"
-    "@gatsbywpthemes/gatsby-theme-blog-data" "^2.1.2"
+    "@gatsbywpthemes/gatsby-plugin-wpcf7" "^2.0.6"
+    "@gatsbywpthemes/gatsby-theme-blog-data" "^2.1.4"
     "@heroicons/react" "^1.0.5"
     "@wordpress/base-styles" "^4.1.1"
     "@wordpress/block-library" "^7.0.0"
@@ -1322,10 +1322,10 @@
     react-helmet "^6.1.0"
     remove-trailing-slash "^0.1.1"
 
-"@gatsbywpthemes/gatsby-plugin-wpcf7@^2.0.4":
-  version "2.0.4"
-  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-plugin-wpcf7/-/2.0.4/gatsby-plugin-wpcf7-2.0.4.tgz#7ad85fc3b51590ebd2c90943f69c9d3ffa70140f"
-  integrity sha512-4DSQ2aVKFIxUyswCKWFqKq09vdatSE/fjKaqG1/86cxj2xUjSHu9m7QOuY1mXiSS8/E4QswHBngx3DTaijbKTQ==
+"@gatsbywpthemes/gatsby-plugin-wpcf7@^2.0.6":
+  version "2.0.6"
+  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-plugin-wpcf7/-/2.0.6/gatsby-plugin-wpcf7-2.0.6.tgz#f4446d76bb6a09113a01efa93d81ac848bfc7738"
+  integrity sha512-izvJNeZiKqHpcoAGYz0yh7M2/dedBcv8YrKT7L4ckHH+Fumq7PhdDoakT683UeNQisIkUo3gN746I+rOvE0Pyg==
   dependencies:
     "@mdx-js/react" "^2.0.0"
     html-react-parser "^1.4.8"
@@ -1339,10 +1339,10 @@
     react-slick "^0.28.1"
     react-tippy "^1.4.0"
 
-"@gatsbywpthemes/gatsby-theme-blog-data@^2.1.2":
-  version "2.1.2"
-  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-theme-blog-data/-/2.1.2/gatsby-theme-blog-data-2.1.2.tgz#3b9a80294c644f12c063edd33c7201cbf5a446f7"
-  integrity sha512-/zyZykuHUtH9MV7dbDWZVD9wIOxccGj6VcfaQ+V2YGs8+LtJVzmCyH9tC/kQDQLg/sNuSY0SmABNbzW4bvkJLA==
+"@gatsbywpthemes/gatsby-theme-blog-data@^2.1.4":
+  version "2.1.4"
+  resolved "https://npm.cloudsmith.io/gatsbywpthemes/gatsby-themes/@gatsbywpthemes/gatsby-theme-blog-data/-/2.1.4/gatsby-theme-blog-data-2.1.4.tgz#cb158a123c4584847982aa1f3562e6f59e3e937c"
+  integrity sha512-yjsS77l1zQSFMck61+lR6VJNxUE+MeDNgX8PqEV69gNd+Bu8DSnhl6+aTredMpRSTJKbpiJ3pni81zjEjY4fqQ==
   dependencies:
     "@apollo/client" "^3.5.8"
     "@gatsbywpthemes/gatsby-plugin-wordpress-parser" "^2.0.4"
